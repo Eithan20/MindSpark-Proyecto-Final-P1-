@@ -68,7 +68,7 @@ y coloca tus credenciales locales.
 ### 3) Ejecutar el proyecto
 1. Abre el proyecto en **NetBeans**
 2. Ejecuta **Clean and Build**
-3. Corre `MainFrame.java`
+3. Corre `VentanaPrincipal.java`
 
 ---
 
